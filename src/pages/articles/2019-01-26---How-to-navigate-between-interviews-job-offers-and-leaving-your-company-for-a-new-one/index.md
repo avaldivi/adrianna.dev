@@ -155,10 +155,4 @@ If you are interested in speaking. CFP closes Feb 15! More details
 
 Feedback is always welcome. Thanks for reading ❤️
 
-* [Tech](https://medium.com/tag/tech?source=post)
-* [Women In Tech](https://medium.com/tag/women-in-tech?source=post)
-* [Interview](https://medium.com/tag/interview?source=post)
-* [Career Advice](https://medium.com/tag/career-advice?source=post)
-* [Job Offer](https://medium.com/tag/job-offer?source=post)
-
-### Originally posted on Medium [Adrianna Valdivia](https://medium.com/@adrianna.valdivia) 👩🏽‍💻
+### Originally posted on Medium by [Adrianna Valdivia](https://medium.com/@adrianna.valdivia) 👩🏽‍💻

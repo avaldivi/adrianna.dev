@@ -44,13 +44,13 @@ class Links extends React.Component {
               <i className="icon-linkedin" />
             </a>
           </li>
-        </ul>
-        <ul className="links__list">
           <li className="links__list-item">
             <a href={`mailto:${links.email}`}>
               <i className="icon-mail" />
             </a>
           </li>
+        </ul>
+        {/* <ul className="links__list">
           <li className="links__list-item">
             <a href={`telegram:${links.telegram}`}>
               <i className="icon-paper-plane" />
@@ -63,7 +63,7 @@ class Links extends React.Component {
               <i className="icon-rss" />
             </a>
           </li>
-        </ul>
+        </ul> */}
       </div>
     )
   }

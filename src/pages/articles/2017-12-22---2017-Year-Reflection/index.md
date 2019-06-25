@@ -102,10 +102,4 @@ hold in 2018.
 I would love to see others join in on this challenge and reflect on 2017 before
 it’s over! Wishing everyone Happy Holidays!
 
-* [Self Reflection](https://medium.com/tag/self-reflection?source=post)
-* [Favorites](https://medium.com/tag/favorites?source=post)
-* [Challenge](https://medium.com/tag/challenge?source=post)
-* [Women In Tech](https://medium.com/tag/women-in-tech?source=post)
-* [Memories](https://medium.com/tag/memories?source=post)
-
-### Originally posted on Medium [Adrianna Valdivia](https://medium.com/@adrianna.valdivia)
+### Originally posted on Medium by [Adrianna Valdivia](https://medium.com/@adrianna.valdivia)

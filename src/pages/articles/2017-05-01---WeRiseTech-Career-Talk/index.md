@@ -61,11 +61,5 @@ ATLiens 😉
 **UPDATE:**<br> As of May 22nd 2017, I have acquired a position at Polar Notion as a
 React Native Apprenctice.
 
-* [Tech](https://medium.com/tag/tech?source=post)
-* [Women In Tech](https://medium.com/tag/women-in-tech?source=post)
-* [Career Advice](https://medium.com/tag/career-advice?source=post)
-* [Women Of Color](https://medium.com/tag/women-of-color?source=post)
-* [Conference](https://medium.com/tag/conference?source=post)
-
-### Originally posted on Medium: [Adrianna Valdivia](https://medium.com/@adrianna.valdivia) 👩🏽‍💻
+### Originally posted on Medium by [Adrianna Valdivia](https://medium.com/@adrianna.valdivia) 👩🏽‍💻
 

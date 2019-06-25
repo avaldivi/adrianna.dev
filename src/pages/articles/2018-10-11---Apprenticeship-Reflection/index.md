@@ -166,12 +166,7 @@ at Polar Notion. You can also follow me on twitter:
 
 Thanks for reading!
 
-* [React](https://medium.com/tag/react?source=post)
-* [Apprenticeship](https://medium.com/tag/apprenticeship?source=post)
-* [Software Development](https://medium.com/tag/software-development?source=post)
-* [Software Engineering](https://medium.com/tag/software-engineering?source=post)
-
-### Orignially Posted on [Polar Notion](https://medium.com/polar-notion?source=footer_card)
+### Orignially Posted on Medium [Polar Notion](https://medium.com/polar-notion?source=footer_card) by [Adrianna Valdivia](https://medium.com/@adrianna.valdivia) 👩🏽‍💻
 
 
 

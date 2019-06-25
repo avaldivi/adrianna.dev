@@ -1,0 +1,44 @@
+@import "../scss/variables";
+@import "../scss/mixins";
+
+input.contact-input {
+  border: none;
+  border-bottom: 1px solid black;
+  width: 100%;
+  outline: none;
+  margin-bottom: 20px;
+}
+
+textarea.contact-textarea {
+  border: 1px solid black;
+  width: 100%;
+  outline: none;
+  margin-bottom: 10px;
+}
+
+div.actions {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+input.contact-btn {
+  display: block;
+  font-size: $typographic-base-font-size;
+  padding: 0 16px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  color: lighten($color-base, 20%);
+  background: $color-gray-bg;
+  font-weight: 400;
+  border: 0;
+  border-radius: 3px;
+  @include margin-top(1);
+  &:hover,
+  &:focus {
+      color: $color-base;
+      background: darken($color-gray-bg, 5%);
+      border: 0;
+  }
+}

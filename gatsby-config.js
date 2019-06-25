@@ -7,7 +7,7 @@ module.exports = {
     url: 'https://adriannavaldivia.netlify.com',
     title: 'Adrianna Valdivia',
     subtitle:
-      'Speaker and UI Engineer',
+      'Speaker, Writer, and UI Engineer',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -30,7 +30,7 @@ module.exports = {
       telegram: '',
       twitter: 'adriannavaldivi',
       github: 'avaldivi',
-      rss: '#',
+      rss: 'rss',
       linkedin: 'adriannavaldivia',
     },
   },

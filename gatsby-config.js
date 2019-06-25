@@ -156,7 +156,7 @@ module.exports = {
         serialize: ({ site, allSitePage }) =>
           allSitePage.edges.map(edge => {
             return {
-              url: site.siteMetadata.url + edge.node.path,
+              siteUrl: site.siteMetadata.siteUrl + edge.node.path,
               changefreq: 'daily',
               priority: 0.7,
             }

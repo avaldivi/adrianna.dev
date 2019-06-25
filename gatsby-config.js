@@ -35,13 +35,6 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-source-medium`,
-      options: {
-        username: `@adriannavaldivi/publication`,
-        limit: 200,
-      },
-    },
-    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/pages`,

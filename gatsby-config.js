@@ -3,6 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
+    siteUrl: 'http://adrianna.dev',
     url: 'http://adrianna.dev',
     title: 'Adrianna Valdivia',
     subtitle:

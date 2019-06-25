@@ -3,8 +3,8 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'http://adrianna.dev',
-    url: 'http://adrianna.dev',
+    siteUrl: 'https://adriannavaldivia.netlify.com',
+    url: 'https://adriannavaldivia.netlify.com',
     title: 'Adrianna Valdivia',
     subtitle:
       'Speaker and UI Engineer',

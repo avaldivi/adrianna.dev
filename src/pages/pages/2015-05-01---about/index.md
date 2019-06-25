@@ -6,7 +6,7 @@ path: "/about"
 
 Here's a little history and current stuff I'm doing now.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.JPG)
+![Chicago June 2019](./1.jpg)
 
 Adrianna is a *UI Engineer* at SalesLoft, Atlanta's #1 Best Place to Work, has previously worked at at an agency building various web and mobile apps in React, React Native, and Ruby on Rails and interned at MailChimp as first role full-time role while in college. Adrianna attended Georgia Gwinnett College in Lawrenceville, GA attaining a Bachelor's of Science in Information Technology with a focus of Software Development. While in college Adrianna and two other women founded the first Women in Technology Student Organization winning grants from NCWiT.
 

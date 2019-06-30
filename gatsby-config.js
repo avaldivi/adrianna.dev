@@ -5,11 +5,10 @@ module.exports = {
   siteMetadata: {
     siteUrl: "https://adriannavaldivia.netlify.com",
     url: "https://adriannavaldivia.netlify.com",
-    title: "adrianna.dev",
+    title: "Adrianna Valdivia | adrianna.dev",
     subtitle: "Speaker, Writer, and UI Engineer",
     description: "Speaker, Writer, and UI Engineer",
     handle: "@adriannavaldivi",
-    image: "src/assets/images/girl-boss.jpg",
     keywords: ["technology blog", "ui engineer", "javascript"],
     meta: "",
     copyright: "© All rights reserved.",

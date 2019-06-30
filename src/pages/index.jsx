@@ -4,6 +4,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/Layout"
 import Post from "../components/Post"
 import Sidebar from "../components/Sidebar"
+import MetaImage from "../assets/images/girl-boss.jpg"
 
 class IndexRoute extends React.Component {
   render() {
@@ -14,9 +15,6 @@ class IndexRoute extends React.Component {
       subtitle,
       description,
       handle,
-      image,
-      keywords,
-      meta,
     } = this.props.data.site.siteMetadata
     const posts = this.props.data.allMarkdownRemark.edges
     posts.forEach(post => {
@@ -28,72 +26,20 @@ class IndexRoute extends React.Component {
         <div>
           <Helmet
             htmlAttributes={{
-              lang: this.props.lang,
+              lang: 'en',
             }}
             title={title}
-            titleTemplate={`${author.name} | ${title}`}
-            meta={[
-              {
-                name: "description",
-                content: description,
-              },
-              {
-                property: "og:title",
-                content: title,
-              },
-              {
-                property: "og:image",
-                content: image,
-              },
-              {
-                property: "og:description",
-                content: description,
-              },
-              {
-                property: "og:type",
-                content: "website",
-              },
-              {
-                name: "twitter:card",
-                content: "summary",
-              },
-              {
-                name: "twitter:creator",
-                content: handle,
-              },
-              {
-                name: "twitter:title",
-                content: title,
-              },
-              {
-                name: "twitter:description",
-                content: description,
-              },
-              {
-                name: "twitter:image",
-                content: image,
-              },
-            ]
-              .concat(
-                keywords.length > 0
-                  ? {
-                      name: "keywords",
-                      content: keywords.join(", "),
-                    }
-                  : []
-              )
-              .concat(meta)}
+            titleTemplate={title}
           >
-            <title>{title}</title>
             <meta name="description" content={subtitle} />
             <meta name="og:type" content="website" />
-            <meta name="og:title" content={title} />
             <meta name="og:description" content={description} />
+            <meta name="og:image" content={MetaImage} />
             <meta name="twitter:card" content="summary" />
             <meta name="twitter:creator" content={handle} />
             <meta name="twitter:title" content={title} />
             <meta name="twitter:description" content={description} />
-            <meta name="twitter:image" content={image} />
+            <meta name="twitter:image" content={MetaImage} />
           </Helmet>
           <Sidebar {...this.props} />
           <div className="content">
@@ -117,7 +63,6 @@ export const pageQuery = graphql`
         copyright
         keywords
         handle
-        image
         meta
         menu {
           label

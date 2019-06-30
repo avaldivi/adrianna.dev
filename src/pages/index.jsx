@@ -42,6 +42,10 @@ class IndexRoute extends React.Component {
                 content: title,
               },
               {
+                property: "og:image",
+                content: image,
+              },
+              {
                 property: "og:description",
                 content: description,
               },

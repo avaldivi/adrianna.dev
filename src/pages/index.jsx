@@ -9,11 +9,11 @@ class IndexRoute extends React.Component {
   render() {
     const items = []
     const {
+      author,
       title,
       subtitle,
       description,
       handle,
-      site,
       image,
       keywords,
       meta,
@@ -31,7 +31,7 @@ class IndexRoute extends React.Component {
               lang: this.props.lang,
             }}
             title={title}
-            titleTemplate={`%s | ${title}`}
+            titleTemplate={`${author.name} | ${title}`}
             meta={[
               {
                 name: "description",
@@ -62,10 +62,6 @@ class IndexRoute extends React.Component {
                 content: handle,
               },
               {
-                name: "twitter:site",
-                content: site,
-              },
-              {
                 name: "twitter:title",
                 content: title,
               },
@@ -90,6 +86,14 @@ class IndexRoute extends React.Component {
           >
             <title>{title}</title>
             <meta name="description" content={subtitle} />
+            <meta name="og:type" content="website" />
+            <meta name="og:title" content={title} />
+            <meta name="og:description" content={description} />
+            <meta name="twitter:card" content="summary" />
+            <meta name="twitter:creator" content={handle} />
+            <meta name="twitter:title" content={title} />
+            <meta name="twitter:description" content={description} />
+            <meta name="twitter:image" content={image} />
           </Helmet>
           <Sidebar {...this.props} />
           <div className="content">

@@ -9,7 +9,7 @@ module.exports = {
     subtitle: "Speaker, Writer, and UI Engineer",
     description: "Speaker, Writer, and UI Engineer",
     handle: "@adriannavaldivi",
-    image: "./src/assets/images/girl-boss.jpg",
+    image: "src/assets/images/girl-boss.jpg",
     keywords: ["technology blog", "ui engineer", "javascript"],
     meta: "",
     copyright: "© All rights reserved.",

@@ -5,6 +5,7 @@ layout: post
 draft: false
 path: "/posts/werisetech-career-talk"
 category: "Career"
+image: "https://cdn-images-1.medium.com/max/1600/1*leRg4LHK9R6ef7y0rEfLlA.png"
 tags:
   - "career"
   - "leadership"

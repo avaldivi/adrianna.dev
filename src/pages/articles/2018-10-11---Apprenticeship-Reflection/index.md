@@ -4,6 +4,7 @@ date: "2018-10-11T16:51:00.000Z"
 layout: post
 draft: false
 path: "/posts/apprenticeship-reflection/"
+image: "https://cdn-images-1.medium.com/max/2400/1*FK4NlLPuGStidwgrAsrZJg.jpeg"
 category: "Technical"
 tags:
   - "React"

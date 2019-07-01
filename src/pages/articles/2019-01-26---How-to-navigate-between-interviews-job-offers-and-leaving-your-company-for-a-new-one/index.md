@@ -6,6 +6,7 @@ layout: post
 draft: false
 path: "/posts/how-to-navigate-between-interviews-job-offers-and-leaving-your-company-for-a-new-one/"
 category: "Career"
+image: "https://cdn-images-1.medium.com/max/1600/1*oLBr1wMiwM5o5r_h3CFxGQ.jpeg"
 tags:
   - "Tech"
   - "Interviewing"

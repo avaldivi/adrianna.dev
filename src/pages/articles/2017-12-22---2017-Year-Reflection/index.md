@@ -4,6 +4,7 @@ date: "2017-12-22T23:46:37.121Z"
 layout: post
 draft: false
 path: "/posts/2017-year-reflection/"
+image: "https://cdn-images-1.medium.com/max/1200/1*-1ItI0iaiNI9MAzXstdUJg.jpeg"
 category: "reflection"
 tags:
   - "reflection"

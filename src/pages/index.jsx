@@ -39,7 +39,7 @@ class IndexRoute extends React.Component {
             <meta name="twitter:creator" content={handle} />
             <meta name="twitter:title" content={title} />
             <meta name="twitter:description" content={description} />
-            <meta name="twitter:image" content={MetaImage} />
+            <meta name="twitter:image" content="http://i68.tinypic.com/dfhkc9.jpg" />
           </Helmet>
           <Sidebar {...this.props} />
           <div className="content">

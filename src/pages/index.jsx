@@ -32,10 +32,10 @@ class IndexRoute extends React.Component {
             titleTemplate={title}
           >
             <meta name="description" content={subtitle} />
-            <meta name="og:type" content="website" />
-            <meta name="og:description" content={description} />
-            <meta name="og:image" content={MetaImage} />
-            <meta name="twitter:card" content="summary" />
+            <meta property="og:type" content="website" />
+            <meta property="og:description" content={description} />
+            <meta property="og:image" content={MetaImage} />
+            <meta property="twitter:card" content="summary" />
             <meta name="twitter:creator" content={handle} />
             <meta name="twitter:title" content={title} />
             <meta name="twitter:description" content={description} />

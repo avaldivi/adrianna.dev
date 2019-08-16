@@ -1,8 +1,8 @@
-require('dotenv').config();
+require("dotenv").config()
 
 const lost = require("lost")
 const pxtorem = require("postcss-pxtorem")
-const { GATSBY_GOOGLE_ANALYTICS_TRACKING_ID } = process.env;
+const { GATSBY_GOOGLE_ANALYTICS_TRACKING_ID } = process.env
 
 module.exports = {
   siteMetadata: {
@@ -41,30 +41,6 @@ module.exports = {
     },
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: 'UA-143246352-1',
-        // Defines where to place the tracking script - `true` in the head and `false` in the body
-        head: true,
-        // Setting this parameter is optional
-        anonymize: true,
-        // Setting this parameter is also optional
-        respectDNT: true,
-        // Avoids sending pageview hits from custom paths
-        exclude: ["/preview/**", "/do-not-track/me/too/"],
-        // Enables Google Optimize using your container Id
-        optimizeId: "YOUR_GOOGLE_OPTIMIZE_TRACKING_ID",
-        // Enables Google Optimize Experiment ID
-        experimentId: "YOUR_GOOGLE_EXPERIMENT_ID",
-        // Set Variation ID. 0 for original 1,2,3....
-        variationId: "YOUR_GOOGLE_OPTIMIZE_VARIATION_ID",
-        // Any additional create only fields (optional)
-        sampleRate: 5,
-        siteSpeedSampleRate: 10,
-        cookieDomain: "https://adrianna.dev",
-      },
-    },
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -152,7 +128,7 @@ module.exports = {
     "gatsby-plugin-sharp",
     {
       resolve: "gatsby-plugin-google-analytics",
-      options: { trackingId: "UA-73379983-2" },
+      options: { trackingId: "UA-143246352-1" },
     },
     {
       resolve: "gatsby-plugin-google-fonts",

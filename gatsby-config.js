@@ -1,5 +1,8 @@
+require('dotenv').config();
+
 const lost = require("lost")
 const pxtorem = require("postcss-pxtorem")
+const { GATSBY_GOOGLE_ANALYTICS_TRACKING_ID } = process.env;
 
 module.exports = {
   siteMetadata: {
@@ -41,9 +44,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `${process.env.GATSBY_GOOGLE_ANALYTICS_TRACKING_ID}`,
+        trackingId: 'UA-143246352-1',
         // Defines where to place the tracking script - `true` in the head and `false` in the body
-        head: false,
+        head: true,
         // Setting this parameter is optional
         anonymize: true,
         // Setting this parameter is also optional
@@ -59,7 +62,7 @@ module.exports = {
         // Any additional create only fields (optional)
         sampleRate: 5,
         siteSpeedSampleRate: 10,
-        cookieDomain: "example.com",
+        cookieDomain: "https://adrianna.dev",
       },
     },
     {

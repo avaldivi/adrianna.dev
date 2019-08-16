@@ -15,7 +15,7 @@ module.exports = {
     keywords: ["technology blog", "ui engineer", "javascript"],
     meta: "",
     copyright: "© All rights reserved.",
-    disqusShortname: "",
+    disqusShortname: "adriannavaldivia",
     menu: [
       {
         label: "Articles",

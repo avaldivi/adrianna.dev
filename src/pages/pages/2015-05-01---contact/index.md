@@ -5,6 +5,7 @@ path: "/contact"
 ---
 
 <form method="post" netlify-honeypot="bot-field" data-netlify="true" action="/">
+  <input type="hidden" name="form-name" value="contact" />
   <div>
     <label htmlFor="name">Name</label>
     <input class="contact-input" type="text" name="name" id="name" />

@@ -5,6 +5,7 @@ import Layout from "../components/Layout"
 import Post from "../components/Post"
 import Sidebar from "../components/Sidebar"
 import MetaImage from "../assets/images/girl-boss.jpg"
+import GirlBoss from './nicole-honeywill-girl-boss.jpg'
 
 class IndexRoute extends React.Component {
   render() {
@@ -39,7 +40,7 @@ class IndexRoute extends React.Component {
             <meta name="twitter:creator" content={handle} />
             <meta name="twitter:title" content={title} />
             <meta name="twitter:description" content={description} />
-            <meta name="twitter:image" content="http://i68.tinypic.com/dfhkc9.jpg" />
+            <meta name="twitter:image" content={GirlBoss} />
           </Helmet>
           <Sidebar {...this.props} />
           <div className="content">

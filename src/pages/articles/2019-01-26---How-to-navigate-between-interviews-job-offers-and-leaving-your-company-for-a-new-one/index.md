@@ -6,7 +6,7 @@ layout: post
 draft: false
 path: "/posts/how-to-navigate-between-interviews-job-offers-and-leaving-your-company-for-a-new-one/"
 category: "Career"
-image: "https://cdn-images-1.medium.com/max/1600/1*oLBr1wMiwM5o5r_h3CFxGQ.jpeg"
+image: "interview_blog.jpeg"
 tags:
   - "Tech"
   - "Interviewing"
@@ -15,9 +15,9 @@ tags:
 description: "If you are switching jobs in tech you should be aware of how to leave your current job, how to handle interviewing, and what do if you have multiple offers. I'll break it down for you here."
 ---
 
-![](https://cdn-images-1.medium.com/max/1600/1*oLBr1wMiwM5o5r_h3CFxGQ.jpeg)
+![Unsplash](interview_blog.jpeg)
 
-<span class="figcaption_hack">[https://unsplash.com/](https://unsplash.com/)</span>
+<b>https://unsplash.com</b>
 
 When you get your first job as a Software Engineer, it’s pretty amazing. Most
 people out of college or coding bootcamps get their first entry level jobs. From

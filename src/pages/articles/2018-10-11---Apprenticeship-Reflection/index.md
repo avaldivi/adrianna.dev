@@ -4,7 +4,7 @@ date: "2018-10-11T16:51:00.000Z"
 layout: post
 draft: false
 path: "/posts/apprenticeship-reflection/"
-image: "https://cdn-images-1.medium.com/max/2400/1*FK4NlLPuGStidwgrAsrZJg.jpeg"
+image: "reflection.jpeg"
 category: "Technical"
 tags:
   - "React"
@@ -18,7 +18,7 @@ description: "Recapping a 12 month journey into professional software engineerin
 
 ## Recapping a 12 month journey into professional software engineering
 
-![](https://cdn-images-1.medium.com/max/2400/1*FK4NlLPuGStidwgrAsrZJg.jpeg)
+![](reflection.jpeg)
 
 It’s been over a year since I’ve started my Apprenticeship at [Polar
 Notion](http://www.polarnotion.com/) in May 2017. For people tuning in and
@@ -55,7 +55,7 @@ beneficial. With lack of planning can be **very disastrous**. It’s cool though
 
 > I’d rather ask for forgiveness than for permission.
 
-![](https://cdn-images-1.medium.com/max/1600/1*5jDlcofAwT15kGJb2cX3mQ.png)
+![](github_contributions.png)
 <span class="figcaption_hack">[https://github.com/avaldivi](https://github.com/avaldivi)</span>
 
 ### React Native

@@ -5,7 +5,7 @@ layout: post
 draft: false
 path: "/posts/werisetech-career-talk"
 category: "Career"
-image: "https://cdn-images-1.medium.com/max/1600/1*leRg4LHK9R6ef7y0rEfLlA.png"
+image: "https://i.ibb.co/f889n5G/we-Rise.png"
 tags:
   - "career"
   - "leadership"
@@ -14,7 +14,7 @@ tags:
 description: "An introduction to our talk 'Life after Graduation: The Struggle' at We Rise Tech Conference 2017 hosted by Women Who Code Atlanta"
 ---
 
-![](https://cdn-images-1.medium.com/max/1600/1*leRg4LHK9R6ef7y0rEfLlA.png)
+![](we_rise.png)
 
 If you haven’t heard yet, We Rise Women in Tech Conference hosted by [Women Who
 Code Atlanta](http://meetup.com/Women-Who-Code-Atlanta) is June 23rd & 24th 2017 at

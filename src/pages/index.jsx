@@ -4,8 +4,6 @@ import { graphql } from "gatsby"
 import Layout from "../components/Layout"
 import Post from "../components/Post"
 import Sidebar from "../components/Sidebar"
-import MetaImage from "../assets/images/girl-boss.jpg"
-import GirlBoss from './nicole-honeywill-girl-boss.jpg'
 
 class IndexRoute extends React.Component {
   render() {
@@ -35,12 +33,12 @@ class IndexRoute extends React.Component {
             <meta name="description" content={subtitle} />
             <meta property="og:type" content="website" />
             <meta property="og:description" content={description} />
-            <meta property="og:image" content={MetaImage} />
+            <meta property="og:image" content={"https://i.ibb.co/sPGxhSb/nicole-honeywill-girl-boss.jpg"} />
             <meta property="twitter:card" content="summary" />
             <meta name="twitter:creator" content={handle} />
             <meta name="twitter:title" content={title} />
             <meta name="twitter:description" content={description} />
-            <meta name="twitter:image" content={GirlBoss} />
+            <meta name="twitter:image" content={"https://i.ibb.co/sPGxhSb/nicole-honeywill-girl-boss.jpg"} />
           </Helmet>
           <Sidebar {...this.props} />
           <div className="content">

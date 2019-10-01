@@ -6,7 +6,7 @@ layout: post
 draft: false
 path: "/posts/how-to-navigate-between-interviews-job-offers-and-leaving-your-company-for-a-new-one/"
 category: "Career"
-image: "interview_blog.jpeg"
+image: "https://i.ibb.co/Dpwxtng/interview-blog.jpg"
 tags:
   - "Tech"
   - "Interviewing"
@@ -15,7 +15,7 @@ tags:
 description: "If you are switching jobs in tech you should be aware of how to leave your current job, how to handle interviewing, and what do if you have multiple offers. I'll break it down for you here."
 ---
 
-![Unsplash](interview_blog.jpeg)
+![](interview_blog.jpeg)
 
 <b>https://unsplash.com</b>
 

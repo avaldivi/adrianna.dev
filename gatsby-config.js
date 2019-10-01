@@ -6,8 +6,8 @@ const { GATSBY_GOOGLE_ANALYTICS_TRACKING_ID } = process.env
 
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://adriannavaldivia.netlify.com",
-    url: "https://adriannavaldivia.netlify.com",
+    siteUrl: "https://adrianna.dev",
+    url: "https://adrianna.dev",
     title: "Adrianna Valdivia | adrianna.dev",
     subtitle: "Speaker, Writer, and UI Engineer",
     description: "Speaker, Writer, and UI Engineer",

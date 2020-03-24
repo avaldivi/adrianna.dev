@@ -1,10 +1,10 @@
-import React from 'react'
-import get from 'lodash/get'
-import { Link } from 'gatsby'
-import Menu from '../Menu'
-import Links from '../Links'
-import profilePic from '../../pages/photo.png'
-import './style.scss'
+import React from "react"
+import get from "lodash/get"
+import { Link } from "gatsby"
+import Menu from "../Menu"
+import Links from "../Links"
+import profilePic from "../../pages/about_shot.jpg"
+import "./style.scss"
 
 class Sidebar extends React.Component {
   render() {
@@ -15,7 +15,7 @@ class Sidebar extends React.Component {
       copyright,
       menu,
     } = this.props.data.site.siteMetadata
-    const isHomePage = get(location, 'pathname', '/') === '/'
+    const isHomePage = get(location, "pathname", "/") === "/"
 
     /* eslint-disable jsx-a11y/img-redundant-alt */
     const authorBlock = (

@@ -7,6 +7,12 @@
   "ascent": 850,
   "glyphs": [
     {
+      "uid": "26eb5e234f87bad251fdd8e285b6fae7",
+      "css": "product-hunt",
+      "code": 62088,
+      "src": "fontawesome"
+    },
+    {
       "uid": "58a16628dcbd6456c61218f3d27591be",
       "css": "skype",
       "code": 61822,

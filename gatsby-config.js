@@ -25,10 +25,10 @@ module.exports = {
         label: "About me",
         path: "/about/",
       },
-      {
-        label: "Contact me",
-        path: "/contact/",
-      },
+      // {
+      //   label: "Contact me",
+      //   path: "/contact/",
+      // },
     ],
     author: {
       name: "Adrianna Valdivia",
@@ -38,6 +38,7 @@ module.exports = {
       github: "avaldivi",
       rss: "rss",
       linkedin: "adriannavaldivia",
+      producthunt: "adriannavaldivi",
     },
   },
   plugins: [

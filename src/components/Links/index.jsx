@@ -1,6 +1,6 @@
-import React from 'react'
-import './style.scss'
-import '../../assets/fonts/fontello-771c82e0/css/fontello.css'
+import React from "react"
+import "./style.scss"
+import "../../assets/fonts/fontello-771c82e0/css/fontello.css"
 
 class Links extends React.Component {
   render() {
@@ -12,6 +12,7 @@ class Links extends React.Component {
       linkedin: author.linkedin,
       rss: author.rss,
       email: author.email,
+      producthunt: author.producthunt,
     }
 
     return (

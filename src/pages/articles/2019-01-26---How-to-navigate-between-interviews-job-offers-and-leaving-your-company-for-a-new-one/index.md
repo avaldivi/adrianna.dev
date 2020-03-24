@@ -103,7 +103,7 @@ choice, do not take their word for it. Ask people you might know who work there.
 Ask them to be honest. Ask someone you know you would relate to you on a
 personal level. For example I am a person of color. I wanted to know what’s the
 diversity like at that company. When you ask someone for their opinion, remember
-it is *their perspective*. Not every workplace is perfect but it’s up to you to
+it is _their perspective_. Not every workplace is perfect but it’s up to you to
 find out what you are getting yourself into.
 
 If you are comparing benefits,

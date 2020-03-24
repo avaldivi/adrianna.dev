@@ -9,7 +9,7 @@ class IndexRoute extends React.Component {
   render() {
     const items = []
     const {
-      author,
+      //author,
       title,
       subtitle,
       description,
@@ -25,7 +25,7 @@ class IndexRoute extends React.Component {
         <div>
           <Helmet
             htmlAttributes={{
-              lang: 'en',
+              lang: "en",
             }}
             title={title}
             titleTemplate={title}
@@ -33,12 +33,22 @@ class IndexRoute extends React.Component {
             <meta name="description" content={subtitle} />
             <meta property="og:type" content="website" />
             <meta property="og:description" content={description} />
-            <meta property="og:image" content={"https://i.ibb.co/sPGxhSb/nicole-honeywill-girl-boss.jpg"} />
+            <meta
+              property="og:image"
+              content={
+                "https://i.ibb.co/sPGxhSb/nicole-honeywill-girl-boss.jpg"
+              }
+            />
             <meta property="twitter:card" content="summary" />
             <meta name="twitter:creator" content={handle} />
             <meta name="twitter:title" content={title} />
             <meta name="twitter:description" content={description} />
-            <meta name="twitter:image" content={"https://i.ibb.co/sPGxhSb/nicole-honeywill-girl-boss.jpg"} />
+            <meta
+              name="twitter:image"
+              content={
+                "https://i.ibb.co/sPGxhSb/nicole-honeywill-girl-boss.jpg"
+              }
+            />
           </Helmet>
           <Sidebar {...this.props} />
           <div className="content">

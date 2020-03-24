@@ -25,16 +25,16 @@ time, challenge yourself to ask ‘why’ with each response.
 
 > This was started by my Jefe [Morgan J. Lopes](https://medium.com/@MorganJLopes),
 > and if you want to be part of this challenge, you can feel free to copy the
-original prompt he created
-[here](https://medium.com/@MorganJLopes/the-final-challenge-of-2017-ad9ce77d19de)!
+> original prompt he created
+> [here](https://medium.com/@MorganJLopes/the-final-challenge-of-2017-ad9ce77d19de)!
 
 **Favorite Person of 2017:**
 [Kamilah Kiser ](https://medium.com/@KamilahKiser),
 she’s been with me on this rollercoaster from starting our own business,
 handling Women Who Code ATL social media, building the first women in tech
 student organization in our college, participating in hackathons and the best
-yet speaking at a conference together, but not just any conference but the *1st
-Annual WE RISE Women in Tech Conference hosted by Women Who Code ATL*. We spoke
+yet speaking at a conference together, but not just any conference but the _1st
+Annual WE RISE Women in Tech Conference hosted by Women Who Code ATL_. We spoke
 in previous conferences in college but this one was different. We suffered the
 same hardships and reaped rewards at the same time from our hard work. Kamilah
 is also my best friend and someone who pushed me hard when I was ready to the
@@ -47,7 +47,6 @@ how she sort of raps in her songs. Press play below.
 
 <center><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/333146107&amp;color=ff5500"></iframe></center>
 
-
 ![](https://cdn-images-1.medium.com/max/1200/1*-1ItI0iaiNI9MAzXstdUJg.jpeg)
 
 **Favorite Movie of 2017: Logan Lucky**
@@ -57,9 +56,9 @@ up like this and unpredictable, they are the best. Starring Channing Tatum but
 not as the handsome character he usually plays. You also need to hear Daniel
 Craig’s country accent. This makes segue to the new film coming out next year,
 **Ocean’s 8**. I can’t wait for the patriarchy to attack this and complain about
-the long list of incredible and talented *thieves*.
+the long list of incredible and talented _thieves_.
 
-**Favorite Brand of 2017: Polar Notion** 
+**Favorite Brand of 2017: Polar Notion**
 The company I work for. I love
 everything it stands for. From beginning an Apprenticeship Program to mentor and
 build junior developers, to working and building products for clients who love
@@ -98,7 +97,7 @@ everything I was involved with, volunteering at Women Who Code ATL and learning
 how build my business under an incubator. I plan to continue everything I put on
 hold in 2018.
 
-*****
+---
 
 I would love to see others join in on this challenge and reflect on 2017 before
 it’s over! Wishing everyone Happy Holidays!

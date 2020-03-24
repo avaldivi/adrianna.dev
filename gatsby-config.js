@@ -25,10 +25,10 @@ module.exports = {
         label: "About me",
         path: "/about/",
       },
-      // {
-      //   label: "Contact me",
-      //   path: "/contact/",
-      // },
+      {
+        label: "Schedule Time With Me!",
+        path: "https://calendly.com/adrianna-valdivia/30min",
+      },
     ],
     author: {
       name: "Adrianna Valdivia",

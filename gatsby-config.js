@@ -18,15 +18,19 @@ module.exports = {
     disqusShortname: "adriannavaldivia",
     menu: [
       {
-        label: "Articles",
-        path: "/",
-      },
-      {
         label: "About me",
         path: "/about/",
       },
       {
-        label: "Schedule Time With Me!",
+        label: "Articles",
+        path: "/",
+      },
+      {
+        label: "Slides",
+        path: "/slides/",
+      },
+      {
+        label: "Contact",
         path: "https://calendly.com/adrianna-valdivia/30min",
       },
     ],

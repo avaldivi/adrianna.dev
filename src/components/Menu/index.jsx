@@ -15,6 +15,7 @@ class Menu extends React.Component {
                 href={item.path}
                 className="menu__list-item-link"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 {item.label}
               </a>

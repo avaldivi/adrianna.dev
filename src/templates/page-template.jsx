@@ -22,7 +22,9 @@ class PageTemplate extends React.Component {
             <meta
               property="og:image"
               content={
-                "https://i.ibb.co/sPGxhSb/nicole-honeywill-girl-boss.jpg"
+                pageTitle === "Slides"
+                  ? "https://i.ibb.co/Rj0BQ59/read-more.jpg"
+                  : "https://i.ibb.co/sPGxhSb/nicole-honeywill-girl-boss.jpg"
               }
             />
             <meta property="twitter:card" content="summary" />
@@ -32,7 +34,9 @@ class PageTemplate extends React.Component {
             <meta
               name="twitter:image"
               content={
-                "https://i.ibb.co/sPGxhSb/nicole-honeywill-girl-boss.jpg"
+                pageTitle === "Slides"
+                  ? "https://i.ibb.co/Rj0BQ59/read-more.jpg"
+                  : "https://i.ibb.co/sPGxhSb/nicole-honeywill-girl-boss.jpg"
               }
             />
           </Helmet>

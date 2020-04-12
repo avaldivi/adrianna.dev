@@ -1,5 +1,6 @@
 ---
 title: "Slides"
+description: "Recent conference and meetup slides by Adrianna"
 layout: page
 path: "/slides"
 ---

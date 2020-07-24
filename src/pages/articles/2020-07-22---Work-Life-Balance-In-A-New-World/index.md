@@ -2,7 +2,7 @@
 title: Work/Life Balance in a New World
 date: "2020-07-24T22:40:32.169Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/work-life-balance-in-a-new-world"
 category: "Career"
 image: "https://i.ibb.co/rm83jDt/work-from-home.png"

@@ -163,7 +163,7 @@ other mentees in their lives.
 
 I’m happy to answer any questions anyone might have about my project experience
 at Polar Notion. You can also follow me on twitter:
-[@adriannavaldivi](https://twitter.com/adriannavaldivi) 💁
+[@driannavaldivia](https://twitter.com/driannavaldivia) 💁
 
 Thanks for reading!
 

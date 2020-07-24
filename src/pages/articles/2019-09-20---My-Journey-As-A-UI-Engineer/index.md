@@ -93,4 +93,4 @@ The end goal for any junior engineer is to move into the next level of experienc
 
 As I gear up for the next level in my career at SalesLoft, we are defining what the path from a Junior UI Engineer to more senior roles looks like. As one UIE levels up, it’s important to pass the torch as a new Junior UIE gets hired. This provides the opportunity for the upcoming mid-level UIE to switch their role to a mentor instead of a mentee. When an engineer finally levels up they can move into roles that require more in-depth technical knowledge or they could move into leading co-workers as an Engineering Manager. No matter what, I believe both roles can develop any person. It is also important to take time to reflect what role you could see yourself in so that you can prepare to evolve when it’s time to get promoted.
 
-Thank you for taking the time to read about my journey. If you have any questions feel free to tweet me [@adriannavaldivia](https://twitter.com/adriannavaldivi)
+Thank you for taking the time to read about my journey. If you have any questions feel free to tweet me [@driannavaldivia](https://twitter.com/driannavaldivia)

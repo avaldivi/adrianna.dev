@@ -60,4 +60,4 @@ Take what works, leave the rest alone.
 Do you have anymore tips that helps you balance your work and home life? Please share!
 _Happy SELF-CARE Day!_
 
-### Follow me on [Twitter](https://twitter.com/driannavaldivi) 👩🏽‍💻
+### Follow me on [Twitter](https://twitter.com/driannavaldivia) 👩🏽‍💻

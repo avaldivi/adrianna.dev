@@ -5,7 +5,7 @@ layout: post
 draft: false
 path: "/posts/work-life-balance-in-a-new-world"
 category: "Career"
-image: "https://i.ibb.co/p04cm84/work-life.png"
+image: "https://i.ibb.co/rm83jDt/work-from-home.png"
 tags:
   - "work/life balance"
   - "self-care"
@@ -16,8 +16,8 @@ tags:
 description: "All aspects in my life have been distrupted by recent global events but I know I'm not the only one. Here are some of the embrassing habits I've developed adjusting to working remotely and some tips to undo them."
 ---
 
-![Man sitting in chair centered on a floor as a clock](work_life.png)
-<span class="figcaption_hack">[From Unsplash by Kevin Ku](https://unsplash.com/photos/aiyBwbrWWlo)</span>
+![Scrabble letters spelled out 'work from home' surrounded by other random letters](work_from_home.png)
+<span class="figcaption_hack">[From Unsplash by Nelly Antoniadou](https://unsplash.com/photos/9X1P46Y2KJo)</span>
 
 It's pretty normal if your work/life balance has been thrown off and I hope you haven't been feeling guilty about it like I have. The world has gone through some pretty eye opening events that are being discussed in the media, social platforms, your job, your family and your friends. It's thrown my life for a loop but not as much as those who's lives have been altered forever. Some of these events have not just occurred but have been brewing for years and now the tea kettle is finally blowing it's steam and unwilling to stop even if you turn off the stove.
 
@@ -33,6 +33,9 @@ But now that working remotely is permanent for the rest of the year that meant I
 - I would not take my hourly lunch or just avoid lunch completely forgetting to eat for the day.
 
 I could share some more but I'd be too embarassed to. These are just some of habits I created while starting to work remotely and I knew I needed boundaries for myself ASAP. Working in these conditions are NOT sustainable. You kind of start to resent yourself and resent your job because _YOU_ aren't setting the boundaries. If you currently work a job that is actually the real culprit of disrupting your work/life balance, I feel for you. I've been there before and it took me a while to actually see it. I would recommend finding another place of work but I know that isn't ideal during a pandemic. My best advice would be to set up the boundaries as best as you can and talk to someone you trust that it's important these boundaries are not crossed or it will affect your productivity levels, negatively.
+
+![Man sitting in chair centered on a floor as a clock](work_life.png)
+<span class="figcaption_hack">[From Unsplash by Kevin Ku](https://unsplash.com/photos/aiyBwbrWWlo)</span>
 
 One of the best ways to RESET your habits is to take the time off and actually learn to separate your home and work life. I found for me it was easier to start a habit when I wasn't expected in a meeting. Since now work and home share the same location, you want to bold the lines at where they stop. Some people have their offices in a different room in the house which can help with bolding that line. Some have a morning routine that gets them started for the day before attending their first meeting. I have a bad habit of checking twitter before stepping out of bed. NOT RECOMMENDED.
 

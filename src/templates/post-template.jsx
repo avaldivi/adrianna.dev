@@ -8,7 +8,11 @@ class PostTemplate extends React.Component {
   render() {
     const { title, subtitle, handle } = this.props.data.site.siteMetadata
     const post = this.props.data.markdownRemark
-    const { title: postTitle, description: postDescription, image: postImage } = post.frontmatter
+    const {
+      title: postTitle,
+      description: postDescription,
+      image: postImage,
+    } = post.frontmatter
     const description = postDescription !== null ? postDescription : subtitle
 
     return (

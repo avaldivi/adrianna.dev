@@ -1,41 +1,37 @@
-import React, { Component } from 'react'
-import ReactDisqusComments from 'react-disqus-comments'
+import React, { useState } from "react"
+import ReactDisqusComments from "react-disqus-comments"
 
-class Disqus extends Component {
-  constructor(props) {
-    super(props)
-    this.state = { toasts: [] }
-    this.notifyAboutComment = this.notifyAboutComment.bind(this)
-    this.onSnackbarDismiss = this.onSnackbarDismiss.bind(this)
+const Disqus = props => {
+  const [toasts, setToasts] = useState({ toasts: [] })
+
+  const onSnackbarDismiss = () => {
+    setToasts({ toasts })
   }
 
-  onSnackbarDismiss() {
-    const [, ...toasts] = this.state.toasts
-    this.setState({ toasts })
+  const notifyAboutComment = () => {
+    const newToasts = toasts.toasts.slice()
+    newToasts.push({ text: "New comment available!!" })
+    setToasts({ newToasts })
   }
-  notifyAboutComment() {
-    const toasts = this.state.toasts.slice()
-    toasts.push({ text: 'New comment available!!' })
-    this.setState({ toasts })
+
+  const { postNode, siteMetadata } = props
+
+  if (!siteMetadata.disqusShortname) {
+    return null
   }
-  render() {
-    const { postNode, siteMetadata } = this.props
-    if (!siteMetadata.disqusShortname) {
-      return null
-    }
-    const post = postNode.frontmatter
-    const url = siteMetadata.url + postNode.fields.slug
-    return (
-      <ReactDisqusComments
-        shortname={siteMetadata.disqusShortname}
-        identifier={post.title}
-        title={post.title}
-        url={url}
-        category_id={post.category_id}
-        onNewComment={this.notifyAboutComment}
-      />
-    )
-  }
+  const post = postNode.frontmatter
+  const url = siteMetadata.url + postNode.fields.slug
+
+  return (
+    <ReactDisqusComments
+      shortname={siteMetadata.disqusShortname}
+      identifier={post.title}
+      title={post.title}
+      url={url}
+      category_id={post.category_id}
+      onNewComment={notifyAboutComment}
+    />
+  )
 }
 
 export default Disqus

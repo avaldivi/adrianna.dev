@@ -1,9 +1,9 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import Sidebar from '../components/Sidebar'
-import CategoryTemplateDetails from '../components/CategoryTemplateDetails'
+import React from "react"
+import Helmet from "react-helmet"
+import { graphql } from "gatsby"
+import Layout from "../components/Layout"
+import Sidebar from "../components/Sidebar"
+import CategoryTemplateDetails from "../components/CategoryTemplateDetails"
 
 class CategoryTemplate extends React.Component {
   render() {

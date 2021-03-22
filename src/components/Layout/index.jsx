@@ -1,18 +1,16 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import '../../assets/scss/init.scss'
+import React from "react"
+import Helmet from "react-helmet"
+import "../../assets/scss/init.scss"
 
-class Layout extends React.Component {
-  render() {
-    const { children } = this.props
+const Layout = props => {
+  const { children } = props
 
-    return (
-      <div className="layout">
-        <Helmet defaultTitle="Blog by Adrianna Valdivia" />
-        {children}
-      </div>
-    )
-  }
+  return (
+    <div className="layout">
+      <Helmet defaultTitle="Blog by Adrianna Valdivia" />
+      {children}
+    </div>
+  )
 }
 
 export default Layout

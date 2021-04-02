@@ -530,5 +530,5 @@ end
 
 - [Collections](https://elixirschool.com/en/lessons/basics/collections/): What are Lists, Maps, and Tuples ?
 
-### [Share tutorial on Twitter](http://twitter.com/share?text=Intro to Elixir and Phoenix using Twitter OAuth by @driannavaldivia&url=http://adrianna.dev/posts/elixir-phoenix-and-twitter-oauth&hashtags=myelixirstatus) 👩🏽‍💻
+### [Share tutorial on Twitter](http://twitter.com/share?text=Intro to Elixir and Phoenix using Twitter OAuth by @driannavaldivia&url=https://adrianna.dev/posts/elixir-phoenix-and-twitter-oauth&hashtags=myelixirstatus) 👩🏽‍💻
 

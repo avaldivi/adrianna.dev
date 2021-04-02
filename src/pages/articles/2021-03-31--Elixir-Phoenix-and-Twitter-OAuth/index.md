@@ -5,7 +5,7 @@ layout: post
 draft: false
 path: "/posts/elixir-phoenix-and-twitter-oauth"
 category: "Technical"
-image: "https://i.ibb.co/PtZNCy5/elixir-phoenix-twitter-post.png"
+image: "https://i.ibb.co/DLDtKF7/elixir-phoenix-twitter-post.png"
 tags:
   - "elixir"
   - "phoenix"
